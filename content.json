@@ -24,13 +24,13 @@
    "size": 816
   }
  },
- "ignore": "^\\.|server",
+ "ignore": "^\\.|server|README.md",
  "inner_path": "content.json",
- "modified": 1522318233,
+ "modified": 1522318868,
  "postmessage_nonce_security": true,
  "signers_sign": "HEQyxvwtPJwINp9WmBxruEwHgRM8bi4nYSQVLVg5olPzALjG98m1QR6ox1ntCclDom5TlYicS41wPKcx2Qv6DOw=",
  "signs": {
-  "15R3rJPiVDGzygCYb4AWfc1QjUbdGTLWYm": "G4lf+PNhuEX/xReZZMsNk+vA0rzGzTpcIHI79W8Ho9KLVZCamHaItNBQFx6mlzhEvIZkN4H4L2bg58dJRahWjw0="
+  "15R3rJPiVDGzygCYb4AWfc1QjUbdGTLWYm": "HP4NGBcgbzGOJvxhuFv3pbtQ71xYvU+t/T9YZNvT2Oc/edWi8yGftsnyZxIB1d7n8uI+/f3k+ziqK61P6ernyOc="
  },
  "signs_required": 1,
  "title": "Socex",
