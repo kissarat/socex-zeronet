@@ -1,0 +1,63 @@
+body {
+    margin: 0;
+}
+
+#app {
+    font-family: 'Source Sans Pro', sans-serif;
+    background-color: white;
+    min-height: 100vh;
+    display: flex;
+}
+
+article {
+    flex: 1;
+    padding: 8px;
+}
+
+.panel {
+    border-right: 1px solid #e5e5e5;
+}
+
+.panel:hover {
+    border-right-color: black;
+}
+
+.panel .name {
+    text-align: center;
+    font-size: 16px;
+    font-weight: 500;
+    width: 120px;
+}
+
+nav ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+nav li {
+    padding-top: 4px;
+    padding-bottom: 6px;
+    padding-left: 12px;
+}
+
+nav li:hover {
+    color: white;
+    background-color: black;
+    cursor: pointer;
+}
+
+nav li i {
+    width: 20px;
+}
+
+.avatar {
+    width: 120px;
+    height: 120px;
+    margin: 8px;
+    background-position: center;
+    background-size: cover;
+}
+
+#pentagram {
+    display: none;
+}

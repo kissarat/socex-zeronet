@@ -1,0 +1,38 @@
+{
+ "address": "15R3rJPiVDGzygCYb4AWfc1QjUbdGTLWYm",
+ "background-color": "#FFFFFF",
+ "description": "Social Network",
+ "files": {
+  "images/logo.svg": {
+   "sha512": "5ec33dc37c622fa59375b6bf89dcdbf8ac5ab6bf8ef39c54d8c5022d2d5f2d39",
+   "size": 667
+  },
+  "images/pentagram.svg": {
+   "sha512": "2a788b63a0f8446151369b0b2d5d39b7d986fe7cd995ab20f3c7fc46ee43bf9d",
+   "size": 64881
+  },
+  "index.html": {
+   "sha512": "c89f175f691056cc73ad3801e11f7d163a650d02a1cd68e3ac756d7dca82e858",
+   "size": 1466
+  },
+  "package.json": {
+   "sha512": "a0213f213eb2a6c0fab4d4e3e30ce72b6dc9cb78ecbc1590d6bb5846779b25a1",
+   "size": 576
+  },
+  "style.css": {
+   "sha512": "dacc696f1b6e8da9f2ddbd543253f7523708f8da3341cf4b1452a2ddea68e307",
+   "size": 816
+  }
+ },
+ "ignore": "^\\.|server",
+ "inner_path": "content.json",
+ "modified": 1522318233,
+ "postmessage_nonce_security": true,
+ "signers_sign": "HEQyxvwtPJwINp9WmBxruEwHgRM8bi4nYSQVLVg5olPzALjG98m1QR6ox1ntCclDom5TlYicS41wPKcx2Qv6DOw=",
+ "signs": {
+  "15R3rJPiVDGzygCYb4AWfc1QjUbdGTLWYm": "G4lf+PNhuEX/xReZZMsNk+vA0rzGzTpcIHI79W8Ho9KLVZCamHaItNBQFx6mlzhEvIZkN4H4L2bg58dJRahWjw0="
+ },
+ "signs_required": 1,
+ "title": "Socex",
+ "zeronet_version": "0.6.2"
+}
